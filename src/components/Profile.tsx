@@ -6,7 +6,7 @@ export default function Profile() {
     return (
         <div className="flex py-10 flex-col items-center">
             <div className="mb-8">
-                <img className="rounded-full w-48 h-48 object-cover" src="./../../public/portfolio-profile2.jpg" alt="Profile" />
+                <img className="rounded-full w-48 h-48 object-cover" src="/portfolio-profile2.jpg" alt="Profile" />
             </div>
 
             <div className='flex flex-col justify-baseline'>

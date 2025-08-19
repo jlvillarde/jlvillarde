@@ -1,4 +1,5 @@
 import { ExternalLink } from "lucide-react"
+import { Link } from "react-router-dom"
 
 interface ProjectCardProps {
     title: string
@@ -24,12 +25,12 @@ export default function ProjectCard({ title, description, techStacks, image, lin
                     <div className="bg-green-500 text-white px-2 py-1 rounded-full text-xs font-medium">Live</div>
                     <div className="flex gap-2">
 
-                        <a
-                            href={link}
+                        <Link
+                            to={link}
                             className="w-8 h-8 bg-white/90 backdrop-blur-sm rounded-full flex items-center justify-center hover:bg-white transition-colors"
                         >
                             <ExternalLink className="w-4 h-4 text-gray-600" />
-                        </a>
+                        </Link>
                     </div>
                 </div>
             </div>
