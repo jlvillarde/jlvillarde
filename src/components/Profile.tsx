@@ -1,4 +1,4 @@
-import { IoLocationSharp, IoCall } from 'react-icons/io5';
+import { IoLocationSharp, IoCall, IoDownload } from 'react-icons/io5';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { IoMail } from 'react-icons/io5';
 
@@ -27,6 +27,10 @@ export default function Profile() {
 
             </div>
             <div className='flex space-x-2 mt-4'>
+                <a href="/Villarde_John_Lester_Resume.pdf" download className="flex items-center px-3 py-1 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-300 dark:hover:bg-gray-600">
+                    <IoDownload size={16} className="mr-1.5" />
+                    Resume
+                </a>
                 <a href="https://github.com/jlvillarde" target="_blank" rel="noopener noreferrer" className="flex items-center p-2 rounded-full hover:bg-gray-300 dark:hover:bg-gray-600">
                     <FaGithub size={20} />
                 </a>
@@ -37,6 +41,7 @@ export default function Profile() {
                     <FaLinkedin size={20} />
                 </a>
             </div>
+
 
         </div >
     )
