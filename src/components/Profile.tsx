@@ -4,7 +4,7 @@ import { IoMail } from 'react-icons/io5';
 
 export default function Profile() {
     return (
-        <div className="flex py-10 flex-col items-center">
+        <div className="flex py-10 flex-col pt-28 lg:pt-10 items-center">
             <div className="mb-8">
                 <img className="rounded-full w-48 h-48 object-cover" src="/portfolio-profile2.jpg" alt="Profile" />
             </div>
