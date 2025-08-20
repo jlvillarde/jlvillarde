@@ -11,14 +11,12 @@
 
 </div>
 
----
 <div align="center">
 
 ### 💡 *"While my expertise lies in backend development, I craft complete full-stack solutions that bridge powerful APIs with intuitive user experiences."*
 
 </div>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +34,6 @@
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
@@ -53,7 +50,6 @@
 
 </div>
 
----
 
 ## 🏆 Featured Projects
 
@@ -77,20 +73,9 @@ Personal finance management application with expense insights.
 
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/jlvillarde/jlvillarde/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://raw.githubusercontent.com/jlvillarde/jlvillarde/output/snake.svg)
 
 </div>
 
-</div>
-
----
 
 <div align="center">
 
