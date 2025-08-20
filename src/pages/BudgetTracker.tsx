@@ -160,7 +160,7 @@ export default function BudgetTracker() {
                         <div className="space-y-2">
                             <h3 className="text-sm font-semibold">Tech Stack</h3>
                             <div className="flex flex-wrap gap-1">
-                                {["React", "TypeScript", "Material-UI", "FastAPI", "PostgreSQL", "Supabase"].map((tech) => (
+                                {["Python", "React", "TypeScript", "Material-UI", "FastAPI", "PostgreSQL", "Supabase"].map((tech) => (
                                     <Badge key={tech} variant="outline" className="text-xs px-2 py-0.5">
                                         {tech}
                                     </Badge>

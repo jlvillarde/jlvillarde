@@ -87,7 +87,7 @@ export default function Journey() {
                         </li>
                         <li className="flex items-start gap-2">
                             <span className="text-emerald-500 mt-1.5 w-1 h-1 rounded-full bg-current flex-shrink-0"></span>
-                            Recognized as <strong>Best Collaborator</strong>
+                            Recognized as <strong>Most Collaborative</strong>
                         </li>
                     </ul>
                 </div>

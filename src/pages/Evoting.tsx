@@ -44,7 +44,7 @@ export default function Evoting() {
           <Shield className="size-3" />
           Full-Stack App
         </Badge>
-        <h1 className="text-2xl font-bold">E-Voting System</h1>
+        <h1 className="text-2xl font-bold">BCC E-Voting System</h1>
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 items-start">
