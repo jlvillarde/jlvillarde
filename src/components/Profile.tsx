@@ -25,8 +25,16 @@ export default function Profile() {
                     <span>+63 930 603 0090</span>
                 </div>
 
+                <div className="text-sm w-8/10 text-gray-600 mt-3 dark:text-gray-400 py-2 italic border-gray-300 dark:border-gray-600">
+                    "Code is like humor. When you have to explain it, it's bad."
+                    <p className="text-right mt-1 text-xs text-gray-500 dark:text-gray-400">
+                        – Cory House
+                    </p>
+                </div>
             </div>
-            <div className='flex space-x-2 mt-4'>
+
+
+            <div className='flex space-x-1 mt-2 '>
                 <a href="/Villarde_John_Lester_Resume.pdf" download className="flex items-center px-3 py-1 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-300 dark:hover:bg-gray-600">
                     <IoDownload size={16} className="mr-1.5" />
                     Resume

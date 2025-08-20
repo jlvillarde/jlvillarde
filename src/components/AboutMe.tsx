@@ -1,3 +1,5 @@
+// import { Highlighter } from "../components/magicui/highlighter";
+
 export default function AboutMe() {
     const techHighlight = "text-emerald-400 font-semibold underline";
 
