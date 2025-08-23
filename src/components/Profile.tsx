@@ -9,7 +9,7 @@ export default function Profile() {
                 <img className="rounded-full w-48 h-48 object-cover" src="/portfolio-profile2.jpg" alt="Profile" />
             </div>
 
-            <div className='flex flex-col justify-baseline'>
+            <div className='flex p-2 flex-col justify-baseline'>
 
                 <span className="text-3xl font-bold">John Lester Villarde</span>
 
@@ -25,7 +25,7 @@ export default function Profile() {
                     <span>+63 930 603 0090</span>
                 </div>
 
-                <div className="text-sm w-8/10 text-gray-600 mt-3 dark:text-gray-400 py-2 italic border-gray-300 dark:border-gray-600">
+                <div className="text-sm m-auto lg:m-0 lg:text-left text-center lg:w-8/10 text-gray-600 mt-3 lg:pt-4 dark:text-gray-400 py-2 italic border-gray-300 dark:border-gray-600">
                     "Code is like humor. When you have to explain it, it's bad."
                     <p className="text-right mt-1 text-xs text-gray-500 dark:text-gray-400">
                         – Cory House
